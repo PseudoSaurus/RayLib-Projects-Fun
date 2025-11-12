@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Owner/source/repos/CMakeProject1/Raylib_Games/SpaceInvader_Main/out/build/x64-debug/SpaceInvader_Main/CMakeFiles/SpaceInvader_Main.dir/embed.manifest"

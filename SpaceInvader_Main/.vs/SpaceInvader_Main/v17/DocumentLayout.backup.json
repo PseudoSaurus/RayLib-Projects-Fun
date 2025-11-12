@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\BarrierBlocks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpaceInvader_Main\\BarrierBlocks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\CMakePresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakePresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\SpaceInvader_Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpaceInvader_Main\\SpaceInvader_Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\BarrierBlocks.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpaceInvader_Main\\BarrierBlocks.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpaceInvader_Main\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpaceInvader_Main\\game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\SpaceShip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpaceInvader_Main\\SpaceShip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\SpaceShip.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpaceInvader_Main\\SpaceShip.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|CMake Overview Pages||{B1CAA5B0-FEB1-4350-8AB9-F895876842F2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CMakePresets.json",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\CMakePresets.json",
+              "RelativeDocumentMoniker": "CMakePresets.json",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\CMakePresets.json",
+              "RelativeToolTip": "CMakePresets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T22:18:30.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BarrierBlocks.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\BarrierBlocks.cpp",
+              "RelativeDocumentMoniker": "SpaceInvader_Main\\BarrierBlocks.cpp",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\BarrierBlocks.cpp",
+              "RelativeToolTip": "SpaceInvader_Main\\BarrierBlocks.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-05T22:10:10.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BarrierBlocks.hpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\BarrierBlocks.hpp",
+              "RelativeDocumentMoniker": "SpaceInvader_Main\\BarrierBlocks.hpp",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\BarrierBlocks.hpp",
+              "RelativeToolTip": "SpaceInvader_Main\\BarrierBlocks.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-05T22:09:18.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\Game.cpp",
+              "RelativeDocumentMoniker": "SpaceInvader_Main\\Game.cpp",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\Game.cpp",
+              "RelativeToolTip": "SpaceInvader_Main\\Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-05T21:01:46.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "game.hpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\game.hpp",
+              "RelativeDocumentMoniker": "SpaceInvader_Main\\game.hpp",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\game.hpp",
+              "RelativeToolTip": "SpaceInvader_Main\\game.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-05T20:51:29.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpaceShip.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\SpaceShip.cpp",
+              "RelativeDocumentMoniker": "SpaceInvader_Main\\SpaceShip.cpp",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\SpaceShip.cpp",
+              "RelativeToolTip": "SpaceInvader_Main\\SpaceShip.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-05T20:38:17.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpaceShip.hpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\SpaceShip.hpp",
+              "RelativeDocumentMoniker": "SpaceInvader_Main\\SpaceShip.hpp",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\SpaceShip.hpp",
+              "RelativeToolTip": "SpaceInvader_Main\\SpaceShip.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-05T20:35:04.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpaceInvader_Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\SpaceInvader_Main.cpp",
+              "RelativeDocumentMoniker": "SpaceInvader_Main\\SpaceInvader_Main.cpp",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\CMakeProject1\\Raylib_Games\\SpaceInvader_Main\\SpaceInvader_Main\\SpaceInvader_Main.cpp",
+              "RelativeToolTip": "SpaceInvader_Main\\SpaceInvader_Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-21T22:45:16.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CMake Overview Pages",
+              "DocumentMoniker": "CMake Overview Pages",
+              "ToolTip": "CMake Overview Pages",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-21T22:45:06.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

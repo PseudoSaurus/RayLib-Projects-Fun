@@ -1,0 +1,5 @@
+C:/Users/Owner/source/repos/CMakeProject1/Raylib_Games/SpaceInvader_Main/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Owner/source/repos/CMakeProject1/Raylib_Games/SpaceInvader_Main/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Owner/source/repos/CMakeProject1/Raylib_Games/SpaceInvader_Main/out/build/x64-debug/SpaceInvader_Main/CMakeFiles/SpaceInvader_Main.dir
+C:/Users/Owner/source/repos/CMakeProject1/Raylib_Games/SpaceInvader_Main/out/build/x64-debug/SpaceInvader_Main/CMakeFiles/edit_cache.dir
+C:/Users/Owner/source/repos/CMakeProject1/Raylib_Games/SpaceInvader_Main/out/build/x64-debug/SpaceInvader_Main/CMakeFiles/rebuild_cache.dir

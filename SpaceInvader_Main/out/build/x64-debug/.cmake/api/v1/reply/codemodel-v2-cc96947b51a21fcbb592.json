@@ -1,0 +1,76 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "SpaceInvader_Main",
+					"jsonFile" : "directory-SpaceInvader_Main-Debug-c0c2a252ba42a82e8eb7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "SpaceInvader_Main",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "SpaceInvader_Main",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "SpaceInvader_Main::@ec1c3dad3497df752dee",
+					"jsonFile" : "target-SpaceInvader_Main-Debug-bb455421295b0738e5c3.json",
+					"name" : "SpaceInvader_Main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Owner/source/repos/CMakeProject1/Raylib_Games/SpaceInvader_Main/out/build/x64-debug",
+		"source" : "C:/Users/Owner/source/repos/CMakeProject1/Raylib_Games/SpaceInvader_Main"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
