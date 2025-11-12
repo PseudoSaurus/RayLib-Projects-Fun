@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CMakeProject1",
+    "\\CMakeProject1\\CMakeProject1",
+    "\\CMakeProject1\\out\\build",
+    "\\CMakeProject1\\out\\build\\x64-debug",
+    "\\CMakeProject1\\VS2022\\raylib"
+  ],
+  "PreviewInSolutionExplorer": false
+}
